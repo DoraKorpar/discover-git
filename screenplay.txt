@@ -1,17 +1,17 @@
 A FIRST DAY AT HOLBERTON SCHOOL
-<<<<<<< HEAD
+
 Steven Garcia Was here!!
 and it was fun 
 DAY AB
 Bilal is here!!!!!
 
 or
-=======
->>>>>>> 7ae4ac560dcffdb737aded3ddbeb3139cdc49cfd
+
+-To GIT or Not to GIT; That is the Question.
+
 
 DAY 0
 
-HEAD
 Written by: The Holberton School Students - January 2016 batch
 
 Written by
